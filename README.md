@@ -1,25 +1,28 @@
-# Hack Technology / Project Attempted
+# Hackathing 1 
+by Antony
 
 
-## What you built? 
+## Small Issue
+I accidentally put all my stuff in the wrong repo so this is me just moving stuff, sorry.
 
-TODO: Short description of what you attempted to build
+## What you built?
 
-Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+I created a simple maze game with Unity which included
 
-## Who Did What?
+* Sound effects
+* Enemies
+  * Stationary 
+  * Moving 
+* Game over
+* Winning the game
 
-TODO: who worked on what part?
+## Screenshots
 
-## What you learned
+## What I learned
 
-TODO: what worked / what didn't work
+I had briefly toyed around with Unity before but not a great extent. I got comfortable with creating prefabs, using node graphs for animators, and learning C#.
 
-## Authors
+## Tutorial 
+https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-beginner?uv=2020.3
 
-TODO: list of authors
 
-## Acknowledgments
-
-TODO: cite any tutorials followed here
